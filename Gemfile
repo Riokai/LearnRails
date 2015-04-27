@@ -3,6 +3,7 @@ source 'https://ruby.taobao.org/'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
+gem 'bcrypt', '3.1.9'
 # Use bootstrap for beauty
 gem 'bootstrap-sass', '3.2.0.0'
 # Use sqlite3 as the database for Active Record
